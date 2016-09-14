@@ -9,6 +9,3 @@ Windows gcc for stm32F103:
 
 ![image](sample1.jpg)                                                
 ![image](sample2.jpg)                                                
-![image](sample3.jpg)                                                
-![image](sample4.jpg)                                                
-![image](sample5.jpg)                                                
